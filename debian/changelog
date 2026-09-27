@@ -1,3 +1,9 @@
+td-agent-bit (1.3.2-3+elster1) unstable; urgency=medium
+
+  * Drop the bundled librdkafka.dsc
+
+ -- Erik Ziegenbalg <erikziege@gmail.com>  Sun, 27 Sep 2026 22:18:34 +0000
+
 td-agent-bit (1.3.2-3) unstable; urgency=medium
 
   [ Daniel Gollub ]
